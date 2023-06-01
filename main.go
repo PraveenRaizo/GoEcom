@@ -5,7 +5,8 @@ import (
 	"os"
 
 	"github.com/PraveenRaizo/GoEcom/controllers"
-	controllers "github.com/PraveenRaizo/GoEcom/database"
+	"github.com/PraveenRaizo/GoEcom/database"
+	"github.com/PraveenRaizo/GoEcom/middleware"
 	"github.com/PraveenRaizo/GoEcom/routes"
 	"github.com/gin-gonic/gin"
 )
